@@ -46,3 +46,5 @@
   [![Linkedin: Anderson Silva](https://img.shields.io/badge/-Anderson%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anderson-silva-a40926192)][linkedin]
   [![Gmail Badge](https://img.shields.io/badge/-andersonsrocha.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonsrocha.dev@gmail.com)](mailto:andersonsrocha.dev@gmail.com)
   [![GitHub Anderson Silva](https://img.shields.io/github/followers/andersonsrocha?label=follow&style=social)](https://github.com/andersonsrocha)
+  
+  ![Snake animation](https://github.com/andersonsrocha/andersonsrocha/blob/output/github-contribution-grid-snake.svg)
